@@ -6,5 +6,6 @@ Project do not include UI, all commands are executed in console. There already c
 
 ## Usage
 example of add (bt.add(10)) - add node with value of 10
+
 example of search (bt.search(10)) - search for node with value of 10
 etc.
