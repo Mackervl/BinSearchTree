@@ -1,0 +1,1 @@
+c:\users\артем\documents\visual studio 2015\Projects\BinSearchTree\BinSearchTree\bin\Debug\BinSearchTree.exe.config
